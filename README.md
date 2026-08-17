@@ -1,4 +1,4 @@
-## Hi there 👋
+## Determination go through anything!
 
 <!--
 **z4kkiexe-bit/z4kkiexe-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
