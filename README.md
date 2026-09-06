@@ -6,9 +6,16 @@
 
 ## Languages & Technologies
 
-<p>
-  <img src="..." width="48" alt="HTML5" style="margin-right: 12px;">
-  <img src="..." width="48" alt="CSS3" style="margin-right: 12px;">
-  <img src="..." width="48" alt="JavaScript" style="margin-right: 12px;">
-  <img src="..." width="48" alt="Python" style="margin-right: 12px;">
-</p>
+## Languages & Technologies
+
+[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)](https://html.spec.whatwg.org/)
+&nbsp;&nbsp;
+[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)](https://www.w3.org/Style/CSS/)
+&nbsp;&nbsp;
+[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+&nbsp;&nbsp;
+[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)](https://www.python.org/)
+&nbsp;&nbsp;
+[![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org/)
+&nbsp;&nbsp;
+[![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg)](https://www.php.net/)
