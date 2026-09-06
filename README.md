@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Profile Banner">
+  <img src="./sans-banner.jpg.png" width="100%" alt="Profile Banner">
 </p>
 
 ## Determination > talent.
