@@ -7,21 +7,8 @@
 ## Languages & Technologies
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-       width="48" hspace="6" alt="HTML5">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-       width="48" hspace="6" alt="CSS3">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-       width="48" hspace="6" alt="JavaScript">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-       width="48" hspace="6" alt="Python">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-       width="90" hspace="6" alt="Node.js">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-       width="48" hspace="6" alt="PHP">
+  <img src="..." width="48" alt="HTML5" style="margin-right: 12px;">
+  <img src="..." width="48" alt="CSS3" style="margin-right: 12px;">
+  <img src="..." width="48" alt="JavaScript" style="margin-right: 12px;">
+  <img src="..." width="48" alt="Python" style="margin-right: 12px;">
 </p>
